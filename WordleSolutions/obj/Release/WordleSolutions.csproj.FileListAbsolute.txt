@@ -1,0 +1,7 @@
+D:\Projects\WordleSolutions\WordleSolutions\bin\Release\WordleSolutions.exe
+D:\Projects\WordleSolutions\WordleSolutions\bin\Release\WordleSolutions.pdb
+D:\Projects\WordleSolutions\WordleSolutions\obj\Release\WordleSolutions.csproj.AssemblyReference.cache
+D:\Projects\WordleSolutions\WordleSolutions\obj\Release\WordleSolutions.csproj.SuggestedBindingRedirects.cache
+D:\Projects\WordleSolutions\WordleSolutions\obj\Release\WordleSolutions.csproj.CoreCompileInputs.cache
+D:\Projects\WordleSolutions\WordleSolutions\obj\Release\WordleSolutions.exe
+D:\Projects\WordleSolutions\WordleSolutions\obj\Release\WordleSolutions.pdb
